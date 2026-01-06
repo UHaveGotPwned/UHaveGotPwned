@@ -1,6 +1,6 @@
-# UHaveBeenPowned
+# UHaveGotPwned
 
-Hello everybody. Im UHaveBeenPowned but you can call me π.
+Hello everybody. Im UHaveGotPwned but you can call me π.
 
 I work as a C++ and Typescript programmer. I spend my free time learning hacking, how to analize and write malware and programming bullshit.
 
